@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/images/logo.png" width="96" height="96" alt="JF-Manager Logo">
+  <img src="https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/logo.png" width="96" height="96" alt="JF-Manager Logo">
 </p>
 
 <h1 align="center">JF-Manager – Open-Source-Software für die Jugendfeuerwehr</h1>
@@ -22,7 +22,7 @@
 
 Die Software eignet sich auch für Feuerwehren mit mehreren Abteilungen, Kinderfeuerwehren, Jugendrotkreuz, THW-Jugend und andere Jugendorganisationen. Die Bezeichnungen der Module lassen sich anpassen.
 
-![JF-Manager Dashboard mit nächsten Diensten, ablaufenden Qualifikationen, offenen Bestellungen und Schnellzugriff](profile/images/dashboard.png)
+![JF-Manager Dashboard mit nächsten Diensten, ablaufenden Qualifikationen, offenen Bestellungen und Schnellzugriff](https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/dashboard.png)
 
 ## Key Features
 
@@ -47,12 +47,12 @@ Die Software eignet sich auch für Feuerwehren mit mehreren Abteilungen, Kinderf
 
 Baut einen Übungsabend aus Bausteinen zusammen, verteilt Stationen per Drag-and-drop auf die Gruppen und lasst euch Konflikte bei Zeit, Personal und Material anzeigen.
 
-![Übungsplaner im JF-Manager: Stationsausbildung mit drei Gruppen, Rotation und Planungswarnungen](profile/images/planner.png)
+![Übungsplaner im JF-Manager: Stationsausbildung mit drei Gruppen, Rotation und Planungswarnungen](https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/planner.png)
 
 <details>
 <summary>Animation: Bausteine per Drag-and-drop verschieben</summary>
 
-![Animation: Übungsbausteine im Planer per Drag-and-drop verschieben](profile/images/planner-drag.gif)
+![Animation: Übungsbausteine im Planer per Drag-and-drop verschieben](https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/planner-drag.gif)
 
 </details>
 
@@ -60,30 +60,30 @@ Baut einen Übungsabend aus Bausteinen zusammen, verteilt Stationen per Drag-and
 
 Anwesenheit direkt im Dienst erfassen: anwesend, entschuldigt oder fehlend, mit einem Klick pro Person. Mehrere Betreuer können gleichzeitig erfassen, jede Eingabe wird sofort gespeichert.
 
-![Digitales Dienstbuch: Anwesenheitserfassung für einen Dienst der Jugendfeuerwehr](profile/images/attendance.png)
+![Digitales Dienstbuch: Anwesenheitserfassung für einen Dienst der Jugendfeuerwehr](https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/attendance.png)
 
 ### Anwesenheitsauswertung
 
 Teilnahmequote, Dienststunden und Monatsverlauf für Mitglieder und Team. Wer länger nicht da war, wird hervorgehoben.
 
-![Anwesenheitsauswertung mit Teilnahmequote, Monatsverlauf und Mitgliederliste](profile/images/report.png)
+![Anwesenheitsauswertung mit Teilnahmequote, Monatsverlauf und Mitgliederliste](https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/report.png)
 
 ### An- und Abmeldungen für Dienste
 
 Für Wachen, Ausflüge oder Zeltlager: Plätze und Positionen festlegen, Voraussetzungen wie Mindestalter prüfen, Warteliste und Mindestbesetzung im Blick behalten.
 
-![Teilnahmeverwaltung mit Anmeldungen, Warteliste und Voraussetzungen](profile/images/participation-registrations.png)
+![Teilnahmeverwaltung mit Anmeldungen, Warteliste und Voraussetzungen](https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/participation-registrations.png)
 
 ### Auf dem Smartphone: Elternportal und Übungsdurchführung
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="profile/images/portal-home.png" alt="Elternportal auf dem Smartphone: nächste Dienste, An- und Abmeldung für Kinder">
+      <img src="https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/portal-home.png" alt="Elternportal auf dem Smartphone: nächste Dienste, An- und Abmeldung für Kinder">
       <p><strong>Elternportal:</strong> Eltern sehen die nächsten Dienste ihrer Kinder und melden sie selbst an oder ab.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="profile/images/execution-mobile.png" alt="Mobile Übungsdurchführung: aktuelle Runde und Stationen auf dem Smartphone">
+      <img src="https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/execution-mobile.png" alt="Mobile Übungsdurchführung: aktuelle Runde und Stationen auf dem Smartphone">
       <p><strong>Übung durchführen:</strong> Ausbilder sehen auf dem Handy die aktuelle Runde, ihre Station und welche Gruppe als Nächstes kommt.</p>
     </td>
   </tr>
@@ -95,7 +95,7 @@ Die Web-App lässt sich als App auf dem Startbildschirm installieren (PWA) und v
 
 Rechte werden pro Abteilung vergeben. Vor dem Speichern zeigt JF-Manager, welche Rechte eine Person dazubekommt oder verliert.
 
-![Rollen und Rechte: Zuweisung einer Rolle mit Vorschau der hinzukommenden Rechte](profile/images/roles.png)
+![Rollen und Rechte: Zuweisung einer Rolle mit Vorschau der hinzukommenden Rechte](https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/roles.png)
 
 ## Warum JF-Manager?
 
