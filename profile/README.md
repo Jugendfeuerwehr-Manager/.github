@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/logo.png" width="96" height="96" alt="JF-Manager Logo">
+  <img src="https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/app-icon.png" width="112" height="112" alt="JF-Manager Logo: Monogramm JF in Blau und Orange">
 </p>
 
 <h1 align="center">JF-Manager – Open-Source-Vereinsverwaltung für Jugendfeuerwehr, Feuerwehr und Vereine</h1>
