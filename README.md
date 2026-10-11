@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/Jugendfeuerwehr-Manager/JF-Manager"><strong>Zum Code-Repository</strong></a> ·
   <a href="https://github.com/Jugendfeuerwehr-Manager/JF-Manager/releases">Releases</a> ·
-  <a href="https://github.com/Jugendfeuerwehr-Manager/JF-Manager/blob/main/docs/handbook/index.md">Benutzerhandbuch</a> ·
+  <a href="https://jugendfeuerwehr-manager.github.io/JF-Manager/index.html">Benutzerhandbuch</a> ·
   <a href="https://github.com/Jugendfeuerwehr-Manager/JF-Manager/blob/main/CONTRIBUTING.md">Mitmachen</a>
 </p>
 
@@ -104,6 +104,16 @@ Rechte werden pro Abteilung vergeben. Vor dem Speichern zeigt JF-Manager, welche
 - **Selbst gehostet und datenschutzfreundlich:** Ihr betreibt die Software auf eurem eigenen Server. Personenbezogene Daten von Kindern und Eltern verlassen nicht eure Infrastruktur.
 - **Mehrere Abteilungen:** Eine Installation für mehrere Jugendfeuerwehren oder Ortsteile, mit Rechten je Abteilung.
 - **Sicher:** Zwei-Faktor-Authentifizierung, Passkeys, Cookie-Sitzungen mit CSRF-Schutz und Rechteprüfung für jede Aktion.
+
+## Benutzerhandbuch
+
+Das bebilderte **[JF-Manager Benutzerhandbuch](https://jugendfeuerwehr-manager.github.io/JF-Manager/index.html)** erklärt Schritt für Schritt alle Funktionen, mit eigener Suche und Druckansicht:
+
+- **Jugendleitung und Betreuer:** Mitglieder, Dienstbuch, Übungsplanung, Material und Kommunikation
+- **Administratoren:** Organisation, Konten, Rollen, Einstellungen und Integrationen
+- **Server und Betrieb:** Installation, Regelbetrieb, Sicherung und Notfälle
+
+📘 [Zum Handbuch: jugendfeuerwehr-manager.github.io/JF-Manager](https://jugendfeuerwehr-manager.github.io/JF-Manager/index.html)
 
 ## Installation
 
