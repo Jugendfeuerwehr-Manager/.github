@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/logo.png" width="96" height="96" alt="JF-Manager Logo">
 </p>
 
-<h1 align="center">JF-Manager – Open-Source-Software für die Jugendfeuerwehr</h1>
+<h1 align="center">JF-Manager – Open-Source-Vereinsverwaltung für Jugendfeuerwehr, Feuerwehr und Vereine</h1>
 
 <p align="center">
   <strong>Mitgliederverwaltung, Dienstbuch, Anwesenheit, Ausbildungsplanung und Inventar in einer Web-App.</strong><br>
@@ -18,9 +18,20 @@
 
 ---
 
-**JF-Manager** ist eine Verwaltungssoftware für **Jugendfeuerwehren** und ihre Jugendwarte, Betreuerinnen und Betreuer. Sie bündelt alles, was im Alltag einer Jugendgruppe anfällt: **Mitglieder und Elternkontakte**, **Dienste und Anwesenheiten**, **Übungs- und Ausbildungsplanung**, **Qualifikationen**, **Kleiderkammer und Ausrüstung** sowie die **Kommunikation mit Eltern**. Statt Excel-Listen, Papier-Dienstbuch und verstreuten E-Mails habt ihr einen zentralen Ort, im Browser und auf dem Smartphone.
+**JF-Manager** ist eine Verwaltungssoftware für **Jugendfeuerwehren**, **Feuerwehr-Einsatzabteilungen**, **Sportvereine** und andere Vereine mit Gruppen und Trainingsstunden. Sie bündelt alles, was im Alltag einer Gruppe anfällt: **Mitglieder und Elternkontakte**, **Dienste und Anwesenheiten**, **Übungs- und Ausbildungsplanung**, **Qualifikationen**, **Kleiderkammer und Ausrüstung** sowie die **Kommunikation mit Eltern**. Statt Excel-Listen, Papier-Dienstbuch und verstreuten E-Mails habt ihr einen zentralen Ort, im Browser und auf dem Smartphone.
 
-Die Software eignet sich auch für Feuerwehren mit mehreren Abteilungen, Kinderfeuerwehren, Jugendrotkreuz, THW-Jugend und andere Jugendorganisationen. Die Bezeichnungen der Module lassen sich anpassen.
+### Nicht nur für die Jugendfeuerwehr
+
+Entstanden ist JF-Manager in der Jugendfeuerwehr, gebaut ist er für **jede Organisation mit Gruppen, Terminen und Trainings- oder Übungsstunden**:
+
+| Wer | Wofür |
+| --- | --- |
+| 🚒 **Einsatzabteilungen der Feuerwehr** | Übungsdienste, Anwesenheit, Ausbildungsnachweise, Qualifikationen und Ausrüstung |
+| 🧒 **Kinder- und Jugendfeuerwehren** | Gruppenstunden, Elternkontakte, Elternportal, Zeltlager und Kleiderkammer |
+| ⚽ **Sportvereine** | Trainingsgruppen, Trainingsplanung mit Stationen, Anwesenheitsquote, Trikots und Material |
+| 🤝 **Andere Vereine und Jugendgruppen** | z. B. Jugendrotkreuz, THW-Jugend, DLRG, Musik- oder Pfadfindergruppen |
+
+Die Namen der Module für Mitglieder, Dienstbuch und Ausbildung lassen sich anpassen, zum Beispiel in „Sportler“, „Trainingsbuch“ und „Trainingsplanung“. Eine Installation kann mehrere Abteilungen oder Gruppen mit getrennten Rechten verwalten.
 
 ![JF-Manager Dashboard mit nächsten Diensten, ablaufenden Qualifikationen, offenen Bestellungen und Schnellzugriff](https://raw.githubusercontent.com/Jugendfeuerwehr-Manager/.github/main/profile/images/dashboard.png)
 
@@ -143,4 +154,4 @@ JF-Manager ist ein Gemeinschaftsprojekt. Jede Hilfe ist willkommen: Fehler melde
   <a href="https://github.com/Jugendfeuerwehr-Manager/JF-Manager"><strong>→ github.com/Jugendfeuerwehr-Manager/JF-Manager</strong></a>
 </p>
 
-<sub>Stichworte: Jugendfeuerwehr Software, Jugendfeuerwehr Verwaltung, Mitgliederverwaltung Feuerwehr, digitales Dienstbuch, Anwesenheitsliste Jugendfeuerwehr, Ausbildungsplanung Feuerwehr, Übungsplanung, Kleiderkammer Verwaltung, Elternportal, Open Source Feuerwehr Software, Jugendwart Tool, Kinderfeuerwehr</sub>
+<sub>Stichworte: Jugendfeuerwehr Software, Jugendfeuerwehr Verwaltung, Mitgliederverwaltung Feuerwehr, digitales Dienstbuch, Anwesenheitsliste Jugendfeuerwehr, Ausbildungsplanung Feuerwehr, Übungsplanung, Kleiderkammer Verwaltung, Elternportal, Open Source Feuerwehr Software, Jugendwart Tool, Kinderfeuerwehr, Vereinsverwaltung Open Source, Sportverein Trainingsplanung, Anwesenheit Training, Einsatzabteilung Übungsdienst</sub>
